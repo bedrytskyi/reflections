@@ -6,3 +6,6 @@ How is the staging area different from the working directory and the repository?
 
 ??!?!??!??!??!??!
 
+How do the diagrams help you visualize the branch structure?
+
+They helps to order
